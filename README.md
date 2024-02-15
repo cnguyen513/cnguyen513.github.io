@@ -3,10 +3,10 @@
 #### Technical Skills: SQL, Excel, Power BI, Tableau, Linux
 
 ## Education
+**Virginia Commonwealth University | B.S., Biology**
+
 **Data Science for All (DS4A) | Correlation One**
 - Solve realistic business problems utilizing skills with Python and pandas such as EDA, data cleaning, data wrangling, statistical testing, SQL, visualization, Tableau, regression analysis
-
-**Virginia Commonwealth University | B.S., Biology**
 
 ## Work Experience
 **System Administrator @ RI (_December 2021 - Present_)**
